@@ -1,4 +1,4 @@
-package xml_homework;
+package xml_homework.W1;
 
 import java.sql.Connection;
 import java.sql.DriverManager;
@@ -6,9 +6,9 @@ import java.sql.SQLException;
 import java.sql.Statement;
 
 public class JDBCExample_CreateTable {
-   static final String DB_URL = "jdbc:mysql://localhost:3306/XMLDB";
-   static final String USER = "root";
-   static final String PASS = "rootroot";
+   static final String DB_URL = "jdbc:mysql://localhost/xmldb";
+   static final String USER = "admin";
+   static final String PASS = "admin";
 
    public static void main(String[] args) {
       // Open a connection

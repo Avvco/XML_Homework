@@ -1,4 +1,4 @@
-package xml_homework;
+package xml_homework.W1;
 
 import java.io.File;
 import java.sql.Connection;
@@ -14,9 +14,9 @@ import org.w3c.dom.Node;
 import org.w3c.dom.Element;
 
 public class DomParserDemo {
-	   static final String DB_URL = "jdbc:mysql://localhost/XMLDB";
-	   static final String USER = "root";
-	   static final String PASS = "rootroot";
+	   static final String DB_URL = "jdbc:mysql://localhost/xmldb";
+	   static final String USER = "admin";
+	   static final String PASS = "admin";
 
    public static void main(String[] args) {
 
