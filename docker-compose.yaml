@@ -23,6 +23,6 @@ services:
       MYSQL_PASSWORD: 'admin'
       MYSQL_ROOT_PASSWORD: 'admin'
     ports:
-     - 64540:8081
+     - 64540:80
     depends_on:
       - mysql
