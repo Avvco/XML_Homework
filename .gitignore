@@ -6,4 +6,6 @@ build
 
 app/bin
 
-test.xml
+*.xml
+!input1.xml
+!midterm.xml
