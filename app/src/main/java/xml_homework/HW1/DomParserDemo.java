@@ -1,4 +1,4 @@
-package xml_homework.W1;
+package xml_homework.HW1;
 
 import java.io.File;
 import java.sql.Connection;

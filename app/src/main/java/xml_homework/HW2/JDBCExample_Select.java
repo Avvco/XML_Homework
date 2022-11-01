@@ -1,4 +1,4 @@
-package xml_homework.W2;
+package xml_homework.HW2;
 
 import java.sql.Connection;
 import java.sql.DriverManager;

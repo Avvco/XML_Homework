@@ -1,4 +1,4 @@
-package xml_homework.W2;
+package xml_homework.HW2;
 
 import javax.xml.parsers.DocumentBuilderFactory;
 import javax.xml.parsers.DocumentBuilder;
